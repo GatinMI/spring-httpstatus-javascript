@@ -1,0 +1,25 @@
+{
+  "name": "spring-httpstatus-javascript",
+  "version": "1.0.0",
+  "description": "org.springframework.http.HttpStatus enum implementation for frontend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GatinMI/spring-httpstatus-javascript.git"
+  },
+  "keywords": [
+    "spring",
+    "httpstatus",
+    "javascript",
+    "org.springframework.http.HttpStatus"
+  ],
+  "author": "Marat Gatin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GatinMI/spring-httpstatus-javascript/issues"
+  },
+  "homepage": "https://github.com/GatinMI/spring-httpstatus-javascript#readme"
+}
