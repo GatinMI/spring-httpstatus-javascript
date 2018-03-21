@@ -161,4 +161,4 @@ const statusText = {
     [HttpStatus.NETWORK_AUTHENTICATION_REQUIRED]: "Network Authentication Required"
 };
 
-module.exports = HttpStatus;
+export default HttpStatus;
