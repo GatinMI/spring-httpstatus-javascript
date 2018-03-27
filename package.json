@@ -14,7 +14,10 @@
     "spring",
     "httpstatus",
     "javascript",
-    "org.springframework.http.HttpStatus"
+    "org.springframework.http.HttpStatus",
+    "http",
+    "status",
+    "codes"
   ],
   "author": "Marat Gatin",
   "license": "MIT",
